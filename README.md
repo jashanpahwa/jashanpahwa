@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jashanpahwa
 - 👀 I’m interested in python , AI , Football
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning Machine Learning
 
 
 
